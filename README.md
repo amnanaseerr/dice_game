@@ -40,7 +40,7 @@ Player number 2 is the winner with a score of: 52
 
 ## 👤 Author
 - Amna Naseer  
-- [GitHub Profile](https://github.com/amnanaseerr)
+- (https://github.com/amnanaseerr)
 
 ## 📄 License
 
